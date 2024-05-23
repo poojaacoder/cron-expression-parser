@@ -1,0 +1,5 @@
+pytest==8.1.1
+click==8.1.7
+cron-validator==1.0.8
+twine
+croniter==2.0.3
